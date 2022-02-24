@@ -14,7 +14,11 @@
 ![签到结束时的用户界面](https://user-images.githubusercontent.com/57986069/155431735-7376fa15-d155-48d0-bd9f-33e487491933.png)
 
 签到结束后点击“学生签到情况”右侧文本框会显示图中内容（当然，在签到结束后也会自动显示）：
-![签到结束后点击“学生签到情况”右侧文本框会显示图中内容（当然，在签到结束后也会自动显示）](https://user-images.githubusercontent.com/57986069/155431766-2b185b2d-d8b7-4fa9-b918-4be6e85f70d1.png)
+<div style="align: center">
+<img src="https://user-images.githubusercontent.com/57986069/155431766-2b185b2d-d8b7-4fa9-b918-4be6e85f70d1.png"/>
+</div>
 
 点击“帮助”右侧文本框会显示图中内容：
-![点击“帮助”右侧文本框会显示图中内容](https://user-images.githubusercontent.com/57986069/155431800-197a3c7c-3c00-4f50-8c51-56b124775ba8.png)
+<div style="align: center">
+<img src="https://user-images.githubusercontent.com/57986069/155431800-197a3c7c-3c00-4f50-8c51-56b124775ba8.png"/>
+</div>
