@@ -18,7 +18,6 @@
 <img src="https://user-images.githubusercontent.com/57986069/155431766-2b185b2d-d8b7-4fa9-b918-4be6e85f70d1.png"/>
 </div>
 
-
 点击“帮助”右侧文本框会显示图中内容：
 <div style="align: center">
 <img src="https://user-images.githubusercontent.com/57986069/155431800-197a3c7c-3c00-4f50-8c51-56b124775ba8.png"/>
