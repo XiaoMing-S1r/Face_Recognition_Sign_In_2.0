@@ -1,5 +1,4 @@
-# 基于python实现的人脸识别签到系统
-## 效果展示
+# 效果展示
 整体外貌效果：
 ![整体外貌效果](https://user-images.githubusercontent.com/57986069/155431634-363e0b90-4a51-4fb3-ae0f-a2adc7ed2e9a.png)
 
@@ -22,3 +21,8 @@
 <div style="align: center">
 <img src="https://user-images.githubusercontent.com/57986069/155431800-197a3c7c-3c00-4f50-8c51-56b124775ba8.png"/>
 </div>
+
+# 使用说明
+1. Face_Recognition_Sign_In.py是该项目的程序入口。
+2. 该项目文件夹存放的路径中不能有中文，否则会导致打包好的.exe应用程序无法运行。
+3. dist文件夹是将.py源代码打包成.exe应用程序时生成的，点击 dist --> Face_Recognition_Sign_In --> Face_Recognition_Sign_In.exe 即可独立打开该项目程序（不需要打开python）。
